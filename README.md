@@ -5,3 +5,6 @@ The objective is to achieve an easy to use GUI interface for linking seoerate Ma
 
 Interface ui tool that combines all needed ai models into a simple to use user-friendly package.
 say for you own ai you can choose a language model, computer vision model and text to speech .etc
+
+
+General ML tool for engineers. 
